@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently interested in machine learning, deep learning and computer vision
 - 📝 I regularly write articles on [medium.com/@Onurryilmaz](https://medium.com/@Onurryilmaz)
-- 📝 Mail : onur.yilmaz.2018@ogr.iu.edu.tr
+- 📝 Mail : onur@avvamobile.com
 - 📝 Web Site : https://onurryilmazz.github.io/ 
  
 
