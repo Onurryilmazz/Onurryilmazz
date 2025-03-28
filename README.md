@@ -1,34 +1,57 @@
+<h1>👋 Hello, I'm Onur</h1>
 
-<h1 align="center">Hello 👋, I'm Onur <br /><br /> 
- 
+<p align="center"> <a href="https://twitter.com/Onurrylmaz"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> <a href="https://www.linkedin.com/in/onurr-yılmaz/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://medium.com/@Onurryilmaz"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a> <a href="https://www.instagram.com/onur_ylmazz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Onurrylmaz)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurr-yılmaz/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Onurryilmaz)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onur_ylmazz/)
+<h2>🚀 About Me</h2>
 
-</h1>
+I started my career focusing on artificial intelligence and data analytics. Over time, I specialized in software engineering, gaining expertise in software architecture, development, database design, and project management.
 
+I've worked on various large-scale, high-traffic projects across industries such as payment systems, ERP & CRM software, telecommunications, and AdTech. My role has spanned from technical leadership to hands-on development, ensuring scalable and efficient software solutions.
 
+<br>
+<h2>🔹 Key Expertise:</h2>
+<ul>
+  <li><strong>Backend Development:</strong>
+    <ul>
+      <li>.NET</li>
+      <li>Golang</li>
+      <li>Python</li>
+    </ul>
+  </li>
+  <li><strong>Databases:</strong>
+    <ul>
+      <li>SQL</li>
+      <li>NoSQL</li>
+      <li>Redis</li>
+      <li>Elasticsearch</li>
+    </ul>
+  </li>
+  <li><strong>Frontend Development:</strong>
+    <ul>
+      <li>Angular</li>
+      <li>JavaScript</li>
+    </ul>
+  </li>
+  <li><strong>Cloud Technologies:</strong>
+    <ul>
+      <li>AWS</li>
+      <li>Azure</li>
+      <li>Google Cloud</li>
+    </ul>
+  </li>
+</ul>
 
-- 🔭 I’m currently interested in machine learning, deep learning and computer vision
-- 📝 I regularly write articles on [medium.com/@Onurryilmaz](https://medium.com/@Onurryilmaz)
-- 📝 Mail : onur@avvamobile.com
-- 📝 Web Site : https://onurryilmazz.github.io/ 
- 
+<p>
+  Passionate about building <strong>high-performance, scalable systems</strong>, I thrive in dynamic environments, delivering innovative solutions that drive business success.
+</p>
 
+<h3>📩 Email: onur@avvamobile.com</h3>
 
+<h2>🛠️ Technologies & Tools</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onurryilmazz&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
- <img align='right' src="https://github-readme-stats.vercel.app/api?username=Onurryilmazz&show_icons=true%22">
+<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" alt=".NET" width="50"></a> <a href="https://go.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" width="60"></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50"></a> <a href="https://redis.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1280px-Redis_Logo.svg.png" alt="Redis" width="50"></a> <a href="https://www.elastic.co/" target="_blank"><img src="https://www.muylinux.com/wp-content/uploads/2021/01/Amazon-Elasticsearch.png" alt="Elasticsearch" width="80"></a> <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"></a> </p>
+<br>
 
-<h3 align="left">Languages and Tools I Use</h3>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</a> <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="40" height="40"/> </a> 
-</a> <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/> </a> 
-</a> <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="40" height="40"/> </a> 
-</a> <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
-</a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> </a>
-</a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> 
-</a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" width="40" height="40"/> </a> 
+<h2>📊 GitHub Stats</h2>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Onurryilmazz&show_icons=true&theme=tokyonight" alt="GitHub Stats"> </p>
