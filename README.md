@@ -50,7 +50,15 @@ I've worked on various large-scale, high-traffic projects across industries such
 
 <h2>🛠️ Technologies & Tools</h2>
 
-<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" alt=".NET" width="50"></a> <a href="https://go.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" width="60"></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50"></a> <a href="https://redis.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1280px-Redis_Logo.svg.png" alt="Redis" width="50"></a> <a href="https://www.elastic.co/" target="_blank"><img src="https://www.muylinux.com/wp-content/uploads/2021/01/Amazon-Elasticsearch.png" alt="Elasticsearch" width="80"></a> <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"></a> </p>
+<p align="left"> 
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" alt=".NET" width="50"></a> 
+  <a href="https://go.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" width="60"></a> 
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50"></a> 
+  <a href="https://redis.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png" alt="Redis" width="50"></a> 
+  <a href="https://www.elastic.co/" target="_blank"><img src="https://www.muylinux.com/wp-content/uploads/2021/01/Amazon-Elasticsearch.png" alt="Elasticsearch" width="80"></a> 
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"></a> 
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"></a> 
+</p>
 <br>
 
 <h2>📊 GitHub Stats</h2>
