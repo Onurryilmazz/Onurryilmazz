@@ -1,6 +1,8 @@
 <h1>👋 Hello, I'm Onur</h1>
 
-<p align="center"> <a href="https://twitter.com/Onurrylmaz"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> <a href="https://www.linkedin.com/in/onurr-yılmaz/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://medium.com/@Onurryilmaz"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a> <a href="https://www.instagram.com/onur_ylmazz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/onurr-yılmaz/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 <h2>🚀 About Me</h2>
 
@@ -8,7 +10,8 @@ I started my career focusing on artificial intelligence and data analytics. Over
 
 I've worked on various large-scale, high-traffic projects across industries such as payment systems, ERP & CRM software, telecommunications, and AdTech. My role has spanned from technical leadership to hands-on development, ensuring scalable and efficient software solutions.
 
-<br>
+<h3>📩 Email: onur@avvamobile.com</h3>
+
 <h2>🔹 Key Expertise:</h2>
 <ul>
   <li><strong>Backend Development:</strong>
@@ -44,8 +47,6 @@ I've worked on various large-scale, high-traffic projects across industries such
 <p>
   Passionate about building <strong>high-performance, scalable systems</strong>, I thrive in dynamic environments, delivering innovative solutions that drive business success.
 </p>
-
-<h3>📩 Email: onur@avvamobile.com</h3>
 
 <h2>🛠️ Technologies & Tools</h2>
 
