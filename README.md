@@ -1,8 +1,8 @@
 <h1>👋 Hello, I'm Onur</h1>
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/onurr-yılmaz/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=288C36&center=true&vCenter=true&width=800&height=100&lines=I'am+a+Software+Engineer;I'am+a+Project+Manager;I'am+a+Software+Architecture" alt="Headline" />
+</div>
 
 <h2>🚀 About Me</h2>
 
