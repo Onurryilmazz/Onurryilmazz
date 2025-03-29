@@ -60,7 +60,3 @@ I've worked on various large-scale, high-traffic projects across industries such
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"></a> 
 </p>
 <br>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Onurryilmazz&show_icons=true&theme=tokyonight" alt="GitHub Stats"> </p>
