@@ -1,62 +1,46 @@
-<h1>👋 Hello, I'm Onur</h1>
+# 👋 Hello, I'm Onur Yılmaz
+### Senior Software Engineer | Specialized in Scalable Microservices & FinTech
 
-<div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=288C36&center=true&vCenter=true&width=800&height=100&lines=I'am+a+Software+Engineer;I'am+a+Project+Manager;I'am+a+Software+Architecture" alt="Headline" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=288C36&center=true&vCenter=true&width=900&height=50&lines=Building+High-Performance+Distributed+Systems;Expert+in+.NET%2C+Java+%26+Cloud+Architecture;Driving+Business+Value+Through+Clean+Code" alt="Headline" />
 </div>
 
-<h2>🚀 About Me</h2>
+---
 
-I started my career focusing on artificial intelligence and data analytics. Over time, I specialized in software engineering, gaining expertise in software architecture, development, database design, and project management.
+### 👨‍💻 About Me
+[cite_start]I am a **Senior Software Engineer** with over 4 years of experience focusing on backend development and designing scalable, multilayered architectures[cite: 5]. [cite_start]I specialize in building high-performance distributed systems using **C#/.NET, Java, and Python**[cite: 6].
 
-I've worked on various large-scale, high-traffic projects across industries such as payment systems, ERP & CRM software, telecommunications, and AdTech. My role has spanned from technical leadership to hands-on development, ensuring scalable and efficient software solutions.
+- [cite_start]🔭 Currently leading backend projects at **AVVA Mobile Enterprise Solutions** for top Turkish companies like Migros and Zorlu Holding[cite: 13, 14].
+- [cite_start]💳 Strong expertise in **Financial and Payment Systems**, delivering secure transaction solutions[cite: 15].
+- [cite_start]🚀 Proven track record of boosting sales by **60%** and reducing manual work by **40%** through innovative software solutions[cite: 17, 18].
+- [cite_start]🛠️ Skilled in **AWS/Azure** cloud infrastructure and modern **CI/CD** pipelines[cite: 7].
 
-<h3>📩 Email: onur@avvamobile.com</h3>
+---
 
-<h2>🔹 Key Expertise:</h2>
-<ul>
-  <li><strong>Backend Development:</strong>
-    <ul>
-      <li>.NET</li>
-      <li>Golang</li>
-      <li>Python</li>
-    </ul>
-  </li>
-  <li><strong>Databases:</strong>
-    <ul>
-      <li>SQL</li>
-      <li>NoSQL</li>
-      <li>Redis</li>
-      <li>Elasticsearch</li>
-    </ul>
-  </li>
-  <li><strong>Frontend Development:</strong>
-    <ul>
-      <li>Angular</li>
-      <li>JavaScript</li>
-    </ul>
-  </li>
-  <li><strong>Cloud Technologies:</strong>
-    <ul>
-      <li>AWS</li>
-      <li>Azure</li>
-      <li>Google Cloud</li>
-    </ul>
-  </li>
-</ul>
+### 🛠️ Tech Stack
 
-<p>
-  Passionate about building <strong>high-performance, scalable systems</strong>, I thrive in dynamic environments, delivering innovative solutions that drive business success.
-</p>
+**Languages & Frameworks**
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-<h2>🛠️ Technologies & Tools</h2>
+**Infrastructure & Streaming**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-<p align="left"> 
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" alt=".NET" width="50"></a> 
-  <a href="https://go.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" width="60"></a> 
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50"></a> 
-  <a href="https://redis.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png" alt="Redis" width="50"></a> 
-  <a href="https://www.elastic.co/" target="_blank"><img src="https://www.muylinux.com/wp-content/uploads/2021/01/Amazon-Elasticsearch.png" alt="Elasticsearch" width="80"></a> 
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"></a> 
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"></a> 
-</p>
-<br>
+**Databases & Caching**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 📈 Highlighted Impact
+
+* [cite_start]**Global Telecom (eSIM):** Integrated **Stripe** and managed microservices on **AWS**, resulting in a **60% sales increase**[cite: 16, 17].
+* [cite_start]**AdTech (Migros):** Developed a digital marketing platform that reduced manual campaign management by **40%**[cite: 18].
+* [cite_start]**Logistics (LC Waikiki):** Improved operational efficiency by **40%** through smart warehouse monitoring screens[cite: 34].
+* [cite_start]**Aerospace (TUSAS):** Automated aerospace order processing for **Boeing and Airbus** using image processing[cite: 37, 38, 39].
+
+---
+
+### 📫 Let's Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/onurr-yılmaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:onur@avvamobile.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
