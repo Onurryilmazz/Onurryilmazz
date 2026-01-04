@@ -8,12 +8,12 @@
 ---
 
 ### 👨‍💻 About Me
-[cite_start]I am a **Senior Software Engineer** with over 4 years of experience focusing on backend development and designing scalable, multilayered architectures[cite: 5]. [cite_start]I specialize in building high-performance distributed systems using **C#/.NET, Java, and Python**[cite: 6].
+I am a **Senior Software Engineer** with over 4 years of experience focusing on backend development and designing scalable, multilayered architectures. I specialize in building high-performance distributed systems using **C#/.NET, Java, and Python**.
 
-- [cite_start]🔭 Currently leading backend projects at **AVVA Mobile Enterprise Solutions** for top Turkish companies like Migros and Zorlu Holding[cite: 13, 14].
-- [cite_start]💳 Strong expertise in **Financial and Payment Systems**, delivering secure transaction solutions[cite: 15].
-- [cite_start]🚀 Proven track record of boosting sales by **60%** and reducing manual work by **40%** through innovative software solutions[cite: 17, 18].
-- [cite_start]🛠️ Skilled in **AWS/Azure** cloud infrastructure and modern **CI/CD** pipelines[cite: 7].
+- 🔭 Currently leading backend projects at **AVVA Mobile Enterprise Solutions** for top Turkish companies like Migros and Zorlu Holding.
+- 💳 Strong expertise in **Financial and Payment Systems**, delivering secure transaction solutions.
+- 🚀 Proven track record of boosting sales by **60%** and reducing manual work by **40%** through innovative software solutions.
+- 🛠️ Skilled in **AWS/Azure** cloud infrastructure and modern **CI/CD** pipelines.
 
 ---
 
@@ -32,10 +32,10 @@
 
 ### 📈 Highlighted Impact
 
-* [cite_start]**Global Telecom (eSIM):** Integrated **Stripe** and managed microservices on **AWS**, resulting in a **60% sales increase**[cite: 16, 17].
-* [cite_start]**AdTech (Migros):** Developed a digital marketing platform that reduced manual campaign management by **40%**[cite: 18].
-* [cite_start]**Logistics (LC Waikiki):** Improved operational efficiency by **40%** through smart warehouse monitoring screens[cite: 34].
-* [cite_start]**Aerospace (TUSAS):** Automated aerospace order processing for **Boeing and Airbus** using image processing[cite: 37, 38, 39].
+* **Global Telecom (eSIM):** Integrated **Stripe** and managed microservices on **AWS**, resulting in a **60% sales increase**.
+* **AdTech (Migros):** Developed a digital marketing platform that reduced manual campaign management by **40%**.
+* **Logistics (LC Waikiki):** Improved operational efficiency by **40%** through smart warehouse monitoring screens.
+* **Aerospace (TUSAS):** Automated aerospace order processing for **Boeing and Airbus** using image processing.
 
 ---
 
